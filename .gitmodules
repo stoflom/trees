@@ -1,0 +1,9 @@
+[submodule "SARTrees"]
+	path = SARTrees
+	url = git@github.com:stoflom/SARTrees.git
+[submodule "TreesBackend"]
+	path = TreesBackend
+	url = git@github.com:stoflom/TreesBackend.git
+[submodule "TreesFrontend"]
+	path = TreesFrontend
+	url = git@github.com:stoflom/TreesFrontend.git
