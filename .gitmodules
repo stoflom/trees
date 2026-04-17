@@ -7,3 +7,6 @@
 [submodule "TreesFrontend"]
 	path = TreesFrontend
 	url = git@github.com:stoflom/TreesFrontend.git
+[submodule "treedescription"]
+	path = treedescription
+	url = git@github.com:stoflom/tree-descriptions.git
