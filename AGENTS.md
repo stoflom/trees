@@ -32,4 +32,4 @@ Update the version in `VERSION` when releasing. The backend exposes it at `/api/
 ## Issues
 
 - Issues are managed with the "gh issue" commands.
-- They must be logged with appropriate labels e.g. bug,enhancement,frontend,backend.
+- They must be logged with appropriate labels e.g. bug,enhancement,frontend,backend,SARTrees.
