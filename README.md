@@ -1,6 +1,6 @@
 # trees
 
-Master repository for the Southern African Trees application. Contains SARTrees, TreesBackend, TreesFrontend, and treedescription as submodules.
+Master repository for the Southern African Trees application. Contains SARTrees, TreesBackend, TreesFrontend, and tree-descriptions as submodules.
 
 ## Quick Start
 
@@ -26,7 +26,7 @@ The application version is managed in the root `VERSION` file (`major.minor.patc
 ## Development Workflow
 
 - All changes are made in a `dev` branch (never pushed to `origin`).
-- When finished, merge into `master` and push to `origin`.
+- When finished, merge into `main` and push to `origin`.
 
 ## Submodules
 
