@@ -5,7 +5,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 echo "=== Building frontend ==="
 cd "$SCRIPT_DIR/TreesFrontend"
-yarn build
+ng build
 
 echo ""
 echo "=== Starting backend ==="
