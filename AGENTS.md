@@ -4,7 +4,7 @@
 
 - **All changes must be done in a `dev` branch.**
 - The `dev` branch is **NEVER** to be pushed to `origin`.
-- When development is finished, changes must be **merged into the `main` branch**.
+- When development is finished, the user will first test and confirm that changes must be **merged into the `main` branch**.
 - The `main` branch is then **pushed to `origin`**.
 
 ## Application Versioning
